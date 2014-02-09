@@ -1,0 +1,3 @@
+name: Updater
+main: com.zachoz.updater.Updater
+version: 1.0
